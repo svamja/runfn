@@ -1,0 +1,22 @@
+{
+  "name": "runfn",
+  "version": "1.0.0",
+  "description": "Run any function from any NodeJS module and pass string arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svamja/runfn.git"
+  },
+  "author": "Sanjay Vamja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svamja/runfn/issues"
+  },
+  "homepage": "https://github.com/svamja/runfn#readme",
+  "dependencies": {
+    "commander": "^7.0.0"
+  }
+}
