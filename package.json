@@ -1,8 +1,9 @@
 {
-  "name": "runfn",
-  "version": "1.0.0",
+  "name": "@svamja/runfn",
+  "version": "1.2.0",
   "description": "Run any function from any NodeJS module and pass string arguments",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
